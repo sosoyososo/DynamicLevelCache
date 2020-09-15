@@ -45,4 +45,5 @@ Simply, **DynamicLevelCache** is a cache dispatch system, you use it like a cach
 4. We rank score for all data calling, and with 
 
 ## TDDO
-1. Data size as input
+1. Data size as input;
+2. Store status persistence and load;
