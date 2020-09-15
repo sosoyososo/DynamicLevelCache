@@ -47,3 +47,4 @@ Simply, **DynamicLevelCache** is a cache dispatch system, you use it like a cach
 ## TDDO
 1. Data size as input;
 2. Store status persistence and load;
+3. Docker support
